@@ -630,4 +630,23 @@
       "symbol": "WETH"
     }
   },
+  "324": {
+    "name": "zkSync Era Mainnet",
+    "rpc": "https://mainnet.era.zksync.io",
+    "chainId": 324,
+    "explorer": "https://explorer.zksync.io/",
+    "color": "#627EEA",
+    "multicall": "",
+    "ENSRegistry": "",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "ETH",
+      "symbol": "ETH"
+    },
+    "wrappedToken": {
+      "address": "0x8Ebe4A94740515945ad826238Fc4D56c6B8b0e60",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    }
+  },
 }
