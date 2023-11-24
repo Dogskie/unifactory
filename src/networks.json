@@ -616,7 +616,7 @@
     "rpc": "https://testnet.era.zksync.dev",
     "chainId": 280,
     "explorer": "https://goerli.explorer.zksync.io/",
-    "color": "#627EEA",
+    "color": "#1B0051",
     "baseCurrency": {
       "decimals": 18,
       "name": "ETH",
@@ -633,7 +633,7 @@
     "rpc": "https://mainnet.era.zksync.io",
     "chainId": 324,
     "explorer": "https://explorer.zksync.io/",
-    "color": "#627EEA",
+    "color": "#1B0051",
     "baseCurrency": {
       "decimals": 18,
       "name": "ETH",
