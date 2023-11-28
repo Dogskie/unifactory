@@ -1,3 +1,4 @@
+{
 "1": {
     "name": "Ethereum",
     "rpc": "https://rpc.ankr.com/eth",
@@ -629,5 +630,5 @@
       "name": "Wrapped Zeta",
       "symbol": "WZETA"
     }
-}
+ },
 }
