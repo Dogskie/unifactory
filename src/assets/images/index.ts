@@ -104,6 +104,7 @@ export const CURRENCY = {
   19845: BTCIX,
   534: CNDL,
   2021: EDG,
+  169: MANTA_ETH,
 
   1442: ETH,
   1101: ETH,
@@ -130,5 +131,4 @@ export const CURRENCY = {
   35441: Q, // Mainnet
   35443: Q, // Testnet
   7001: ZETA, // Testnet
-  169: MANTA_ETH,
 }
