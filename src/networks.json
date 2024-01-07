@@ -388,7 +388,7 @@
   },
   "42161": {
     "name": "Arbitrum",
-    "rpc": "https://arb1.arbitrum.io/rpc",
+    "rpc": "https://arbitrum.llamarpc.com",
     "chainId": 42161,
     "explorer": "https://arbiscan.io/",
     "color": "#e7eaf3",
