@@ -611,6 +611,26 @@
       "symbol": "WQ"
     }
   },
+  "169": {
+    "name": "Manta Pacific Mainnet",
+    "rpc": "https://1rpc.io/manta",
+    "chainId": 169	,
+    "explorer": "https://pacific-explorer.manta.network/",
+    "color": "#00AEFF",
+    "multicall": "0x83E249f47d235120595a05B03557cFab5DA2Dfd2",
+    "storage": "0x96A044408F6d6D35DEE8Ea88C9f44D7d4A93f148",
+    "exstorage": "",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "ETH",
+      "symbol": "ETH"
+    },
+    "wrappedToken": {
+      "address": "0x0Dc808adcE2099A9F62AA87D9670745AbA741746",
+      "name": "Wrapped ETH",
+      "symbol": "WETH"
+    }
+  },
   "7001": {
     "name": "Zetachain Testnet",
     "rpc": "https://zetachain-athens-evm.blockpi.network/v1/rpc/public",
