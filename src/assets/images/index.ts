@@ -28,6 +28,7 @@ import GUAPX from './guapx.png'
 import SCROLL_ETH from './scroll.io.png'
 import Q from './q.png'
 import ZETA from './Zeta.png'
+import ZETA from './manta.png'
 
 
 export const CURRENCY = {
@@ -60,6 +61,7 @@ export const CURRENCY = {
   Q,
   GUAPX,
   ZETA,
+  MANTA_ETH,
 
   // ------------
 
@@ -128,4 +130,5 @@ export const CURRENCY = {
   35441: Q, // Mainnet
   35443: Q, // Testnet
   7001: ZETA, // Testnet
+  169: MANTA_ETH,
 }
