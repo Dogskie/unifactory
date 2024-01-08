@@ -28,7 +28,7 @@ import GUAPX from './guapx.png'
 import SCROLL_ETH from './scroll.io.png'
 import Q from './q.png'
 import ZETA from './Zeta.png'
-import MAANTA_ETH from './MantaLogo.png'
+import MANTA_ETH from './MantaLogo.png'
 
 
 export const CURRENCY = {
