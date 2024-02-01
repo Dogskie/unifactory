@@ -657,9 +657,9 @@
     "chainId": 7000  ,
     "explorer": "https://zetachain.blockscout.com/",
     "color": "#2A8958",
-    "multicall": "0x606C2Dd168440Fcf4Cb4AE30647c2295CB95BBca",
-    "storage": "0x095a03c6a68137fE9a566bBc3e552F299d8b886",
-    "exstorage": "0x2f87D23cd8d788bC9a32E540cdd8253F9b1F54CF",
+    "multicall": "0xdfC6678FdAa9Ecf20fF7F98d890f173196B88790",
+    "storage": "",
+    "exstorage": "",
     "baseCurrency": {
       "decimals": 18,
       "name": "Zetachain",
