@@ -132,4 +132,6 @@ export const CURRENCY = {
   35441: Q, // Mainnet
   35443: Q, // Testnet
   7001: ZETA, // Testnet
+  7000: ZETA, // Mainnet
+  
 }
