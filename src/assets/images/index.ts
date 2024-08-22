@@ -29,6 +29,7 @@ import SCROLL_ETH from './scroll.io.png'
 import Q from './q.png'
 import ZETA from './Zeta.png'
 import MANTA_ETH from './MantaLogo.png'
+import CORE from './core.png'
 
 
 export const CURRENCY = {
@@ -62,6 +63,7 @@ export const CURRENCY = {
   GUAPX,
   ZETA,
   MANTA_ETH,
+  CORE,
 
   // ------------
 
@@ -105,6 +107,7 @@ export const CURRENCY = {
   534: CNDL,
   2021: EDG,
   169: MANTA_ETH,
+  1116: CORE,
 
 
   1442: ETH,
