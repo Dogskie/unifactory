@@ -89,8 +89,8 @@ export default function Footer() {
   const SourceCopyright = (
     <>
       Powered by{' '}
-      <a href="https://doggieswap.xyz/" target="_blank" rel="noopener noreferrer">
-        Doggie Swap
+      <a href="https://dogsoncore.xyz/" target="_blank" rel="noopener noreferrer">
+        Dogs On Core
       </a>
     </>
   )
