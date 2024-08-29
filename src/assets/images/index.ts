@@ -30,7 +30,6 @@ import Q from './q.png'
 import ZETA from './Zeta.png'
 import MANTA_ETH from './MantaLogo.png'
 import CORE from './core.png'
-import SONEIUM from './soneium.jpg'
 
 
 export const CURRENCY = {
