@@ -65,7 +65,7 @@ export const CURRENCY = {
   ZETA,
   MANTA_ETH,
   CORE,
- SONEIUM_ETH,
+  SONEIUM_ETH,
 
   // ------------
 
