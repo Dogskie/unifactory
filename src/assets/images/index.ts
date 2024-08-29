@@ -30,6 +30,7 @@ import Q from './q.png'
 import ZETA from './Zeta.png'
 import MANTA_ETH from './MantaLogo.png'
 import CORE from './core.png'
+import SONEIUM from './soneium.jpg'
 
 
 export const CURRENCY = {
@@ -64,6 +65,7 @@ export const CURRENCY = {
   ZETA,
   MANTA_ETH,
   CORE,
+ SONEIUM_ETH,
 
   // ------------
 
@@ -108,6 +110,7 @@ export const CURRENCY = {
   2021: EDG,
   169: MANTA_ETH,
   1116: CORE,
+  1946: SONEIUM_ETH,
 
 
   1442: ETH,
